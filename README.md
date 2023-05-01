@@ -5,7 +5,7 @@
 - Sergio Franco Pineda
 - Juan Felipe Caraballo
 
-#Anotacione
+# Anotaciones
 
 Al final de la cadena a codificar y/o decodeificar se debe ingresar el simbolo *&* al final de la cadena.
 
