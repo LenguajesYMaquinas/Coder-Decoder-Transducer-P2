@@ -16,9 +16,9 @@ Testing Coder-Decoder
 Input string: (empty string to end)
 abc&bac&bac&bba&bbb&bbb&bbb&cca&
 What do you want to do?
-1. code only?
-2. code and decode?
-3. decode only?
+1 code only?
+2 code and decode?
+3 decode only?
 2
 The coded string was accepted. Output: cba&cab&*&abb&bbb&*&*&acc&
 The decoded string was accepted. Output: abc&bac&bac&bba&bbb&bbb&bbb&cca&
